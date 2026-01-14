@@ -77,7 +77,3 @@ The Jupyter Notebook includes:
 - Exploratory data analysis (EDA)
 - Visualizations using Matplotlib and Seaborn
 - SQL-backed data fetching (no static CSV dependency)
-
----
-
-## Repository Structure
